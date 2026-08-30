@@ -1,3 +1,3 @@
-# Avin's GitHub
+# Hello 👋
 
-Welcome to my profile 👋
+This is my GitHub profile README.
